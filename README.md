@@ -270,8 +270,3 @@ Password: Sizwe@21
 MIT License — see [LICENSE](LICENSE)
 
 ---
-
-
-> Add screenshots of the login, booking flow, and dashboards here.
-
----
