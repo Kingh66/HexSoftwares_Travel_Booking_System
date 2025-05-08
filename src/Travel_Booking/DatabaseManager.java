@@ -10,8 +10,8 @@ public class DatabaseManager {
 
     private static HikariDataSource dataSource;
     private static final String DB_URL = "jdbc:mysql://localhost:3306/travel_booking";
-    private static final String DB_USER = "root";
-    private static final String DB_PASSWORD = "Sizwe22";
+    private static final String DB_USER = "your_username";
+    private static final String DB_PASSWORD = "your_password";
     private static final int MAX_RETRIES = 3;
     private static final int MAX_POOL_SIZE = 10;
     private static final String DRIVER_CLASS = "com.mysql.cj.jdbc.Driver";
